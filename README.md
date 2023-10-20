@@ -5,7 +5,7 @@
 ## Atualize os seus dados
 
 - Nome: Fernando B Oliveira
-- Matrícula: 23.2.1234
+- Matrícula: 23.2.1234 - branch dev.
 - Curso: SI/EC/EE/EP
 - Semestre/Ano correntes: 2023/2
 - Link para o seu GitHub: [fboliveira](https://github.com/fboliveira)
